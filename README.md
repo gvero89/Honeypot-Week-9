@@ -27,12 +27,6 @@ Nmap is used and pass it the IP of the honeypot VM
 Nmap Installation:
 $sudo apt-get install nmap
 
+<img src="https://github.com/gvero89/Honeypot-Week-9/blob/master/nmap%20honeypot1.JPG" width=600>
 
-## Blue
-
-Vulnerability #1: Session Hijacking
-<img src="https://github.com/gvero89/Pentesting-Live-Targets/blob/master/Session%20HijackingFixation.gif" width=800>
-
-Vulnerability #2: SQL Injection
-<img src="https://github.com/gvero89/Pentesting-Live-Targets/blob/master/SQL%20Injection.gif" width=800>
 
