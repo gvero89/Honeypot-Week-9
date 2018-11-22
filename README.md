@@ -56,4 +56,4 @@ The first issue that I encounter was the GitHub link for Milestone 2. In order t
 <img src="https://github.com/gvero89/Honeypot-Week-9/blob/master/attacks1.gif" width=800>
 
 # Exporting Data
-<img src="https://github.com/gvero89/Honeypot-Week-9/blob/master/json.JPG" width=800>
+<img src="https://github.com/gvero89/Honeypot-Week-9/blob/master/json.JPG" width=600>
