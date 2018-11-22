@@ -46,6 +46,8 @@ Honeypot Intercepted my attacks
 
 Honeyplots deployed: 2 Dionaea (Honeypot-1 & Honeypot-3) and 1 Suricata (Honeypot-Suricata)
 
+<img src="https://github.com/gvero89/Honeypot-Week-9/blob/master/sensors.JPG" width=600>
+
 After learning how to create the first Honeypot-1 it was easy to create the other two honeypots.
 The first issue that I encounter was the GitHub link for Milestone 2. In order to complete this Milestone, guidance from the TA and advice from other students was needed. 
 
