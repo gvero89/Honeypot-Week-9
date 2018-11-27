@@ -76,4 +76,4 @@ Right click on the settings icon then download file.
 <img src="https://github.com/gvero89/Honeypot-Week-9/blob/master/attacks1.gif" width=800>
 
 # Exporting Data
-<img src="" width=600>
+<img src="https://github.com/gvero89/Honeypot-Week-9/blob/master/newexport.JPG" width=600>
