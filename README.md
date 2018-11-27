@@ -78,4 +78,4 @@ Right click on the settings icon then download file.
 # Exporting Data
 <img src="https://github.com/gvero89/Honeypot-Week-9/blob/master/newexport.JPG" width=600>
 
-- Note: Due to the fact that the session.json file was 50MB, it was converted in a zip file (session).
+- Note: My session.json file was 50MB and I could not uploaded to GitHub (max. 25 MB), due to this inconvenienve, it was converted in a zip file (session).
