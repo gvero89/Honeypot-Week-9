@@ -51,7 +51,9 @@ Honeyplots deployed: 2 Dionaea (Honeypot-1 & Honeypot-3) and 1 Suricata (Honeypo
 After learning how to create the first Honeypot-1 it was easy to create the other two honeypots.
 The first issue that I encounter was the GitHub link for Milestone 2. In order to complete this Milestone, guidance from the TA and advice from other students was needed. 
 Exporting the Data took a very long time due to the fact that I was trying to obtain the exported files by using the Google Cloud SDK Shell and the using the following command: 
+
 $ gcloud compute ssh mhn-admin
+
 Once SSH access to the VM was establish by using the above command 
 the exported files were exported:
 
@@ -60,9 +62,13 @@ the exported files were exported:
 Eventhough it was exported, I couldn't get access to the dir where it was downloaded.
 
 In order to work, I accessed the honeypot admin SSH through the Google Cloud Platform.
+
 I used the following command:
+
 $ mongoexport --db mnemosyne --collection session > session.json
+
 To download the file:
+
 Right click on the settings icon then download file.
 
 # Summary of data collected
